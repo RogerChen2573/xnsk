@@ -8,3 +8,4 @@ Create a new branch is quick
 This is dev branch
 This is sit branch
 Fast forward DEV
+stash
